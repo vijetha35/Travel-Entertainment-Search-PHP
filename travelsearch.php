@@ -13,7 +13,7 @@
 			
 			
 			//$APIKey ='AIzaSyBDIaOeP0fVpdj3NiCOE-BfsZiIWn-rPoE';
-			$APIKey ='AIzaSyAGbF6Cjrj0tHbq-YK5lwR3jEohYg84dXI';
+			$APIKey ='YOUR-API-KEY-HERE';
 			$options=array(
 						"ssl"=>array(
 							"verify_peer"=>false,
@@ -553,5 +553,5 @@ tabresults = <?php echo $table_results ;?> ;
         });
       }
 </script>
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUr_UWIE-xhUEkUf91oA4w1Rkk4JvtnJc">  </script>
+ <script src="https://maps.googleapis.com/maps/api/js?key=YOUR-API-KEY-HERE">  </script>
 </html>
